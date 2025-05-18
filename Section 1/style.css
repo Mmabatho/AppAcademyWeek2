@@ -1,0 +1,26 @@
+h1{
+    color:green;
+    font-family: sans-serif;
+}
+
+ul{list-style-type: circle;
+    list-style-image: url('images/pointer-icon.png')
+
+}
+ol{list-style-type: upper-alpha;
+}
+
+h2{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#menu-bar a
+{text-decoration:none ;
+background-color: aquamarine;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+padding : 5px;
+}
+#menu-bar a:hover{
+    background-color:aqua;
+    color:#ffffff; 
+}
